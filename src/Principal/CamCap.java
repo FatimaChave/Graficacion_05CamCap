@@ -29,7 +29,7 @@ import org.opencv.imgcodecs.Imgcodecs;
 
 /**
  *
- * @author alfon
+ * @author fatim
  */
 public class CamCap extends javax.swing.JFrame {
 
